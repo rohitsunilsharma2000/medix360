@@ -26,6 +26,12 @@ export default function SideBarComponent() {
                 <span>Calender</span>
               </a>
             </li>
+            <li>
+              <a href="/pages/appointment-add">
+                <i className="bi bi-circle"></i>
+                <span>Add Appointment</span>
+              </a>
+            </li>
             
           </ul>
         </li>
